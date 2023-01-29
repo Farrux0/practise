@@ -70,3 +70,11 @@ h1{
     height: 500px;
     background: red;
 }
+.footer{
+    padding: 50px 0;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
